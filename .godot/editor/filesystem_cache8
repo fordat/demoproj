@@ -1,0 +1,5 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1714347342
+Icon.cs::CSharpScript::-1::1714286098::0::1::::<>Sprite2D<>::
+icon.svg::CompressedTexture2D::8380350721811359001::1714097716::1714097737::1::::<><>::
+node_2d.tscn::PackedScene::1615889770823447340::1714286139::0::1::::<><>::uid://drnrffyl8f2tp::::res://icon.svg<>res://Icon.cs

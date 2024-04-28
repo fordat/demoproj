@@ -1,0 +1,17 @@
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\bin\Debug\demoproj.deps.json
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\bin\Debug\demoproj.runtimeconfig.json
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\bin\Debug\demoproj.dll
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\bin\Debug\demoproj.pdb
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\demoproj.csproj.AssemblyReference.cache
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\demoproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\demoproj.AssemblyInfoInputs.cache
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\demoproj.AssemblyInfo.cs
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\demoproj.csproj.CoreCompileInputs.cache
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\demoproj.csproj.CopyComplete
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\demoproj.dll
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\refint\demoproj.dll
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\demoproj.pdb
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\demoproj.genruntimeconfig.cache
+C:\Users\forda\Documents\anothaone\demoproj\.godot\mono\temp\obj\Debug\ref\demoproj.dll
